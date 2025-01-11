@@ -1,4 +1,5 @@
 Modded files for CyanYoh's Corrinquest S6
+
 Class stats - https://docs.google.com/spreadsheets/d/1n8A3FtdTEDNFGqTESSyxg6AX8j9ZOQYINlHK0XljLxY/edit?usp=sharing
 
 Leveling calculator - https://docs.google.com/spreadsheets/d/1lJI5swabjBz21ECrn1f5e5Fwnac5y0Ah6OLxzTYJ8js/edit?usp=sharing
